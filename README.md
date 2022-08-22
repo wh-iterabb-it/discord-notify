@@ -15,3 +15,8 @@ Its open source to be used as an example of such implimentation and meant to be 
 
 ### Example Usage
 
+
+
+<p align="center">
+  All members and contributors must ahear to the community <a href="https://github.com/wh-iterabb-it/.github/blob/main/docs/CODE_OF_CONDUCT.md">Code of Conduct</a>
+</p>
