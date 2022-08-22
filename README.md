@@ -1,6 +1,6 @@
 discord-notify
 =========
-[![Issues](https://img.shields.io/github/issues/Crucible-Standard/obiter-dictum.svg)](https://github.com/wh-iterabb-it/discord-notify/issues)
+[![Issues](https://img.shields.io/github/issues/wh-iterabb-it/discord-notify/.svg)](https://github.com/wh-iterabb-it/discord-notify/issues)
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/wh-iterabb-it/discord-notify/blob/main/LICENSE)
 ![Known Vulnerabilities](https://snyk.io/test/github/wh-iterabb-it/discord-notify/badge.svg) 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/wh-iterabb-it/discord-notify.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wh-iterabb-it/discord-notify/alerts/) 
